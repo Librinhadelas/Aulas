@@ -12,3 +12,5 @@ void loop()
   digitalWrite(3, LOW);
   delay(500); // Wait for 1000 millisecond(s)
 }
+
+![Captura de tela 2022-03-17 222111](https://user-images.githubusercontent.com/100149818/158920063-d81c5d06-3781-44ad-9977-6ac4e00c8967.png)
