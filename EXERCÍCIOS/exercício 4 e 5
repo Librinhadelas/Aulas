@@ -23,3 +23,4 @@ void loop () {
 }
     
 
+// Professor , não consegui achar uma maneira de fazer o LED ficar ligado e só apagar quando eu pressionar o botão . ( a não ser desse jeito )
