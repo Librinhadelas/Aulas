@@ -15,4 +15,4 @@ void loop()
   delay(10);
 }
 
-// Não consegui apagar 
+// Não consegui apagar fazer os LEDs apagarem 
